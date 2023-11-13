@@ -1,0 +1,50 @@
+.subjectHeader{
+	color: royalblue;
+	font-family: sans-serif;
+}
+
+blockquote {
+	background-color: darkblue;
+	color: silver;
+}
+
+#scoreBoard {
+	border-style: groove;
+	border-width: 5;
+	border-color: black;
+}
+
+#scoreBoard *{
+	border-style: groove;
+	border-width: 5;
+	border-color: black;
+	text-align: center;
+}
+
+#scoreBoard th, caption{
+	
+	color: navy;
+	font-weight: bold;
+}
+
+ul {
+	list-style: square;
+}
+
+ul > li > img {
+	background-position: 50% 50%;
+}
+
+ul > li > a,ul {
+	background-image: image_;
+}
+
+.hyperLink:hover{
+	background-color: blue;
+	color: darkorange;
+	text-decoration-line: none;
+}
+
+#checkbox-grid{
+	list-style: none;
+}
